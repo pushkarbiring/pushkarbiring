@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
 
 jobs:
-  generate:
+  build:
     runs-on: ubuntu-latest
 
     steps:
@@ -14,16 +14,13 @@ jobs:
         uses: actions/checkout@v3
 
       - name: Generate trophy
-        uses: ryo-ma/github-profile-trophy@master
-        with:
-          username: pushkarbiring
-          theme: darkhub
-          no-frame: true
+        run: |
+          curl "https://github-profile-trophy.vercel.app/?username=pushkarbiring&theme=darkhub&no-frame=true&margin-w=10" -o trophy.svg
 
-      - name: Commit changes
+      - name: Commit trophy
         run: |
           git config --global user.name "github-actions"
           git config --global user.email "actions@github.com"
-          git add .
-          git commit -m "Update trophies"
+          git add trophy.svg
+          git commit -m "Update trophy"
           git push
