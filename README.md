@@ -16,7 +16,6 @@
 ![](https://github-profile-trophy.vercel.app/?username=pushkarbiring&theme=darkhub&no-frame=true&margin-w=10)
 
 ## 🐍 Contribution Snake
-
 ![Snake animation](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)
 
 ### 📈 Contribution Graph
