@@ -18,7 +18,7 @@ jobs:
 
       - name: Generate trophy
         run: |
-          curl "https://github-profile-trophy.vercel.app/?username=pushkarbiring&theme=darkhub&no-frame=true&margin-w=10" -o trophy.svg
+  curl -L "https://github-profile-trophy.vercel.app/?username=pushkarbiring&theme=darkhub&no-frame=true&margin-w=10" -o trophy.svg
 
       - name: Commit and push
         run: |
