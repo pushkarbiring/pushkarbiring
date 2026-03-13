@@ -10,7 +10,7 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=pushkarbiring&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=pushkarbiring&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=pushkarbiring&layout=compact&langs_count=10)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=pushkarbiring&theme=dark&hide_border=false&layout=compact)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=pushkarbiring&theme=radical&no-frame=false&no-bg=false&margin-w=4)
