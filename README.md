@@ -13,13 +13,15 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=pushkarbiring&theme=dark&hide_border=false&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=pushkarbiring&theme=darkhub&no-frame=true&margin-w=10)
+## 🐍 Contribution Snake
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=pushkarbiring&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![Snake animation](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)
+
+### 📈 Contribution Graph
+![](https://github-readme-activity-graph.vercel.app/graph?username=pushkarbiring&theme=github-dark)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=pushkarbiring&icon=0&color=0)](https://visitcount.itsvg.in)
+![](https://komarev.com/ghpvc/?username=pushkarbiring&label=Profile%20views&color=0e75b6&style=flat)
 
   ## 💰 You can support me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/mrpusu) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/PushkarBiring) 
