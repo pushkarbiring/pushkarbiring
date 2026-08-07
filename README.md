@@ -1,7 +1,7 @@
 # 💫 About Me
 🎓 I’m a Computer Science and Engineering student passionate about building real-world applications.
 <br><br>
-🔭 I’m currently working on: Flutter apps and React + Vite based web projects.
+🔭 I’m currently working on: Web Development and Flutter apps.
 <br><br>
 👯 I’m looking to collaborate on: Open-source web and mobile development projects.
 <br><br>
@@ -11,7 +11,7 @@
 <br><br>
 🚀 Interests: Web Development, Mobile App Development, and AI-based applications.
 <br><br>
-📫 How to reach me: Through GitHub or LinkedIn.
+📫 How to reach me: Connect with me through any of the social links below or visit my website: [pushkarbiring.github.io](https://pushkarbiring.github.io/)
 <br><br>
 ⚡ Fun fact: I enjoy building projects and learning new technologies every day.
 
